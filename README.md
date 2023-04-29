@@ -2,7 +2,7 @@
 Site Link 👉 https://somveerkr.github.io/tinDog-LandingPage/
 
 ## Image Preview
-![Tindog Image]("./assets/tinDog.png")
+![Tindog Image](./assets/tinDog.png)
 
 ## Built With 
 1. HTML
